@@ -1,0 +1,5 @@
+tela = input('Digite um nome:')
+quantidadeM = sum(1 for char in tela if char.isupper())
+quantidadeL = len(tela.replace(" ", ""))
+quantidadeL2 = len(tela)
+print(type(tela), quantidadeM, quantidadeL, quantidadeL2)
