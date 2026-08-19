@@ -1,1 +1,1 @@
-:.2f
+ ['João', 'Naiara', 'Pedro', 'Maria']
